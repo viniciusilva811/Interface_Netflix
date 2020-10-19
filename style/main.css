@@ -97,5 +97,13 @@ header nav a:hover{
 }
 
 .box-filme{
-    
+    height: 100%;
+    width: 100%;
+    display: block;
+    cursor: pointer;
+}
+
+
+.carrosel-filmes{
+    margin-top:5px;
 }
